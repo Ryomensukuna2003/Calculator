@@ -1,4 +1,4 @@
-<h1 align="center">Calculator Web App</h1>
+<h1 align="center">Calculator</h1>
 
 ## Introduction
 
