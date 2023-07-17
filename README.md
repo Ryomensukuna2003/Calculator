@@ -18,7 +18,7 @@ The Calculator Web App is a simple calculator application built using React.js. 
 
 To run the Calculator Web App locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/calculator-web-app.git`
+1. Clone this repository: `git clone https://github.com/Ryomensukuna2003/calculator-web-app.git`
 2. Navigate to the project directory: `cd calculator-web-app`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
