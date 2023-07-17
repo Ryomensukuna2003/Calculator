@@ -1,13 +1,8 @@
 <h1 align="center">Calculator Web App</h1>
 
-<p align="center">
-  <img src="![image](https://github.com/Ryomensukuna2003/Calculator/assets/112168836/2d40eea2-f5ef-424d-906b-a2f0b5abb2f2)
-" alt="Calculator Web App Screenshot" />
-</p>
-
 ## Introduction
 
-The Calculator Web App is a simple calculator application built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The app also includes additional functionalities such as a clear button to reset the calculator, a backspace button to delete the last entered digit, and an equals-to button to calculate the result.
+The Calculator Web App is a simple calculator application built using React.js. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The app also includes additional functionalities such as a clear button to reset the calculator, a backspace button to delete the last entered digit, and an equals-to button to calculate the result.
 
 ## Features
 
@@ -25,7 +20,9 @@ To run the Calculator Web App locally, follow these steps:
 
 1. Clone this repository: `git clone https://github.com/your-username/calculator-web-app.git`
 2. Navigate to the project directory: `cd calculator-web-app`
-3. Open the `index.html` file in your web browser.
+3. Install the dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Open your web browser and visit: `http://localhost:3000`
 
 ## Usage
 
@@ -43,7 +40,3 @@ Contributions are welcome! If you find any issues or would like to suggest enhan
 3. Make the necessary changes and commit them: `git commit -am 'Add new feature'`
 4. Push your changes to the branch: `git push origin my-new-feature`
 5. Submit a pull request on the original repository.
-
-## License
-
-This project is licensed under the MIT License. You are free to modify, distribute, and use the code for commercial or personal purposes.
